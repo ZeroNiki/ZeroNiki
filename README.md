@@ -10,6 +10,12 @@ I understand the programming language Python and Linux Administration. Now, lear
 *   ✉️  You can contact me at [redminote4nik@gmail.com](mailto:redminote4nik@gmail.com)
 *   🧠  I'm learning Django
  
+ ### CodeWars
+![Codewars](https://github.r2v.ch/codewars?Z_e_r_o=USER&stroke=green)
+![Codewars](https://github.r2v.ch/codewars?Z_e_r_o=andreasvogt89&stroke=%23BB432C)
+
+
+ 
 <a href="https://www.github.com/ZeroNiki" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ZeroNiki?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
 
