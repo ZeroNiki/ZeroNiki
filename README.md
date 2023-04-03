@@ -11,8 +11,7 @@ I understand the programming language Python and Linux Administration. Now, lear
 *   🧠  I'm learning Django
  
  ### CodeWars
-![Codewars](https://github.r2v.ch/codewars?Z_e_r_o=USER&stroke=green)
-![Codewars](https://github.r2v.ch/codewars?Z_e_r_o=andreasvogt89&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=Z_e_r_o)
 
 
  
