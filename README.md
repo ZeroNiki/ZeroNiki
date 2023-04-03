@@ -9,8 +9,9 @@ I understand the programming language Python and Linux Administration. Now, lear
 *   🌍  I'm based in Tashkent
 *   ✉️  You can contact me at [redminote4nik@gmail.com](mailto:redminote4nik@gmail.com)
 *   🧠  I'm learning Django
+ 
 <a href="https://www.github.com/ZeroNiki" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/ZeroNiki?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/ZeroNiki?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
 
 ### Skills 
 <p align="left">
