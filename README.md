@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/ZeroNiki?logo=github&style=for-the-
 ### Tool
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vim/vim/master/src/vim.ico" width="36" height="36" alt="Vim" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" width="36" height="36" alt="Ubuntu" /></a>
-<a href="https://www.google.com/search?q=linux+terminal&hl=en" target="_blank" rel="noreferrer"><img src="https://icon-library.com/icon/terminal-icon-png-6.html.html" width="36" height="36" alt="Terminal-Linux" /></a>
+<a href="https://www.google.com/search?q=linux+terminal&hl=en" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-6.jpg" width="36" height="36" alt="Terminal-Linux" /></a>
 
 
 ### Socials
