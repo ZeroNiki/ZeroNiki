@@ -12,8 +12,8 @@ I understand the programming language Python and Linux Administration. Now, lear
  
  ### Objectives
  - [X] Django
- - [] C++
- - [] C
+ - [ ] C++
+ - [ ] C
  
  ### CodeWars
 ![Codewars](https://github.r2v.ch/codewars?user=Z_e_r_o)
