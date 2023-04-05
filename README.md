@@ -10,6 +10,11 @@ I understand the programming language Python and Linux Administration. Now, lear
 *   ✉️  You can contact me at [redminote4nik@gmail.com](mailto:redminote4nik@gmail.com)
 *   🧠  I'm learning Django
  
+ ### Objectives
+ - [X] Django
+ - [] C++
+ - [] C
+ 
  ### CodeWars
 ![Codewars](https://github.r2v.ch/codewars?user=Z_e_r_o)
 
