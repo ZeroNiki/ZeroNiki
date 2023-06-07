@@ -28,6 +28,8 @@ src="https://img.shields.io/github/followers/ZeroNiki?logo=github&style=for-the-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/DeadWater#6419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DeadWater#6419" height="30" width="40" /></a>
+<a href="https://github.com/ZeroNiki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ZeroNiki" height="30" width="40" /></a>
+<a href="https://t.me/LifeFreeOr_Die" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="@LifeFreeOr_Die" height="30" width="37" /></a>
 </p>
 
 ### Badges
