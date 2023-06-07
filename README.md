@@ -8,7 +8,6 @@ I understand the programming language Python and Linux Administration. Now, lear
 
 *   🌍  I'm based in Tashkent
 *   ✉️  You can contact me at [redminote4nik@gmail.com](mailto:redminote4nik@gmail.com)
-*   🧠  I'm learning Django
  
  ### Objectives
  - [X] Django
