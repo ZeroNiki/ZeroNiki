@@ -36,5 +36,3 @@ src="https://img.shields.io/github/followers/ZeroNiki?logo=github&style=for-the-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ZeroNiki"><img src="https://github-readme-stats.vercel.app/api?username=ZeroNiki&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="ZeroNiki's GitHub stats" /></a>
-
-<a href="http://www.github.com/ZeroNiki"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ZeroNiki&bg_color=000000&color=22c55e&line=22c55e&point=22c55e&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
