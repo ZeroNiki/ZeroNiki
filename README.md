@@ -8,7 +8,9 @@ I understand the programming language Python and Linux Administration. Now, lear
  
  ### Objectives
  - [X] Django
- - [ ] C++
+ - [X] bash
+ - [ ] Ruby
+ - [ ] Rust 
 
  
  ### CodeWars
