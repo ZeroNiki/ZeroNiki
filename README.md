@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Python programmer and linux administrator
 -----------------------------------------
-
-I understand the programming language Python and Linux Administration. Now, learning Django and want to create my own app and I plan to learn C++ and C soon
  
  ### Objectives
  - [X] Django
