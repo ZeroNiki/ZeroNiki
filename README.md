@@ -7,8 +7,9 @@ Python programmer and linux administrator
  ### Objectives
  - [X] Django
  - [X] bash
- - [ ] Ruby
- - [ ] Rust 
+ - [X] Ruby
+ - [X] Rust
+ - [ ] C/C++ 
 
  
  ### CodeWars
