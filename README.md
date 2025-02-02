@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -74,10 +74,6 @@
 
 ###
 
-<h3 align="left">Operating_Systems</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -85,6 +81,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
+
+###
+
+<h3 align="left">Operating_Systems</h3>
 
 ###
 
